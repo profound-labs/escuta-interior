@@ -1,0 +1,36 @@
+date: 2016-05-31
+version: 'v1.0'
+
+# Epub and Mobi
+# =============
+
+bookid: "ProphecyBookId"
+
+# Level 1, 2, 3
+#section_names: [ "", "", "" ]
+#show_chapter_name: true
+#chapter_number_format: roman
+
+toc:
+  - { the_matter: frontmatter }
+  - { target: epub, title: "Cover", src: 'cover.xhtml.erb', layout: none, type: cover, linear: no }
+  - { target: epub, title: "Title Page", src: 'titlepage.xhtml.erb', type: title-page }
+  - { target: epub, title: "Contents", src: 'toc.xhtml.erb', type: toc }
+  - preface.md
+  - { target: mobi, title: "Title Page", src: 'titlepage.xhtml.erb', type: text, class: title-page }
+  - { target: mobi, title: "Contents", src: 'toc.xhtml.erb', type: toc }
+  - { the_matter: mainmatter, section_number: 1 }
+  - like-a-boat.md
+  - nameless-labyrinth.markdown
+  - time-machine.markdown
+  - { section_name: "Appendix", section_number: 1 }
+  - further-comments.markdown
+  - { the_matter: backmatter }
+  - glossary.md
+  - { title: "Copyright", src: 'copyright.md.erb', type: copyright-page }
+
+lang: pt
+
+subject: RELIGION / Buddhism / Theravada
+source: http://fsbooks.org
+
