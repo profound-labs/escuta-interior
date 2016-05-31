@@ -1,0 +1,109 @@
+\documentclass[
+  final,
+  pagePreset=largepage,
+  babelLanguage=british,
+  %webversion,
+]{anecdote}
+
+%\usepackage{local}
+
+%% Details of the book
+%% ===================
+
+\title{Escuta Interior}
+\subtitle{meditação no som do silêncio}
+\author{Ajahn Amaro}
+\publisher{The Publisher}
+\date{2016-05-31}
+\editionInfo{}
+\ISBN{000-0-000000-00-0}
+
+%% === Load further packages ===
+
+%% === Hyphenation exceptions and corrections ===
+
+% \hyphenation{}
+
+\begin{document}
+
+\frontmatter
+
+\ifwebversion
+\webcover{%
+\includegraphics[height=\paperheight]{./webcover.jpg}%
+}
+\fi
+
+\input{../.././manuscript/tex/titlepage.tex}
+
+\input{chapters/copyright.tex}
+
+\cleartorecto
+\tableofcontents*
+
+\mainmatter
+
+% Escuta Interior
+\input{../.././manuscript/tex/escuta-interior.tex}
+
+% O Som Interior e Como Encontrá-lo
+\input{../.././manuscript/tex/som-interior.tex}
+
+% As Duas Dimensões de \emph{Samādhi
+\input{../.././manuscript/tex/duas-dimensoes.tex}
+
+% \emph{Nada
+\input{../.././manuscript/tex/tranquilidade.tex}
+
+% \emph{Nada
+\input{../.././manuscript/tex/realizacao.tex}
+
+% \emph{Nada
+\input{../.././manuscript/tex/permite-escutar.tex}
+
+% \emph{Nada
+\input{../.././manuscript/tex/vazio-e-verdade.tex}
+
+% \emph{Nada
+\input{../.././manuscript/tex/atammayata.tex}
+
+% \emph{Nada
+\input{../.././manuscript/tex/abrange.tex}
+
+% \emph{Nada
+\input{../.././manuscript/tex/desenvolvimento.tex}
+
+% \emph{Nada
+\input{../.././manuscript/tex/ajuda-a-ver.tex}
+
+% \emph{Nada
+\input{../.././manuscript/tex/questionar.tex}
+
+% Os Atributos De \emph{Nada
+\input{../.././manuscript/tex/atributos.tex}
+
+% \emph{Nada
+\input{../.././manuscript/tex/transcendencia.tex}
+
+% \emph{Nada
+\input{../.././manuscript/tex/manifestacoes.tex}
+
+% Perguntas Frequentes
+\input{../.././manuscript/tex/perguntas.tex}
+
+\appendix
+
+% Citações
+\input{../.././manuscript/tex/citacoes.tex}
+
+% Referências
+\input{../.././manuscript/tex/referencias.tex}
+
+\backmatter
+
+% Sobre o Autor
+\input{../.././manuscript/tex/sobre-o-autor.tex}
+
+\input{../.././manuscript/tex/copyright-details.tex}
+
+\end{document}

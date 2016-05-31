@@ -3,13 +3,26 @@ toc:
   - titlepage.tex
   - copyright.tex.erb
   - { insert: "\\cleartorecto\n\\tableofcontents" }
-  - preface.md
   - { insert: "\\mainmatter\n\\book{\\thetitle}" }
-  - like-a-boat.md
-  - nameless-labyrinth.markdown
-  - time-machine.markdown
+  - escuta-interior.tex
+  - som-interior.tex
+  - duas-dimensoes.tex
+  - tranquilidade.tex
+  - realizacao.tex
+  - permite-escutar.tex
+  - vazio-e-verdade.tex
+  - atammayata.tex
+  - abrange.tex
+  - desenvolvimento.tex
+  - ajuda-a-ver.tex
+  - questionar.tex
+  - atributos.tex
+  - transcendencia.tex
+  - manifestacoes.tex
+  - perguntas.tex
   - { insert: '\appendix' }
-  - further-comments.markdown
+  - citacoes.tex
+  - referencias.tex
   - { insert: '\backmatter' }
-  - glossary.md
+  - sobre-o-autor.tex
   - copyright-details.tex

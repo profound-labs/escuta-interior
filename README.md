@@ -1,6 +1,10 @@
 Escuta Interior
 ==============
 
+*meditação no som do silêncio*
+
+por Ajahn Amaro
+
 Paperback status: **IN PROGRESS**  
 Ebook status: **N/A**
 
