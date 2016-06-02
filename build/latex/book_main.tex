@@ -5,7 +5,9 @@
   %webversion,
 ]{anecdote}
 
-%\usepackage{local}
+\usepackage{local}
+
+\makepagenote
 
 %% Details of the book
 %% ===================
@@ -41,54 +43,14 @@
 \cleartorecto
 \tableofcontents*
 
+\aliaspagestyle{chapter}{empty}
+
 \mainmatter
 
-% Escuta Interior
+\aliaspagestyle{chapter}{topcorner}
+
 \input{../.././manuscript/tex/escuta-interior.tex}
 
-% O Som Interior e Como Encontrá-lo
-\input{../.././manuscript/tex/som-interior.tex}
-
-% As Duas Dimensões de \emph{Samādhi
-\input{../.././manuscript/tex/duas-dimensoes.tex}
-
-% \emph{Nada
-\input{../.././manuscript/tex/tranquilidade.tex}
-
-% \emph{Nada
-\input{../.././manuscript/tex/realizacao.tex}
-
-% \emph{Nada
-\input{../.././manuscript/tex/permite-escutar.tex}
-
-% \emph{Nada
-\input{../.././manuscript/tex/vazio-e-verdade.tex}
-
-% \emph{Nada
-\input{../.././manuscript/tex/atammayata.tex}
-
-% \emph{Nada
-\input{../.././manuscript/tex/abrange.tex}
-
-% \emph{Nada
-\input{../.././manuscript/tex/desenvolvimento.tex}
-
-% \emph{Nada
-\input{../.././manuscript/tex/ajuda-a-ver.tex}
-
-% \emph{Nada
-\input{../.././manuscript/tex/questionar.tex}
-
-% Os Atributos De \emph{Nada
-\input{../.././manuscript/tex/atributos.tex}
-
-% \emph{Nada
-\input{../.././manuscript/tex/transcendencia.tex}
-
-% \emph{Nada
-\input{../.././manuscript/tex/manifestacoes.tex}
-
-% Perguntas Frequentes
 \input{../.././manuscript/tex/perguntas.tex}
 
 \appendix
