@@ -480,7 +480,8 @@ philo-sophical munindo amaravati thai-land}
   {\color{footnoterule}\hrule height 0.25pt width \columnwidth}
   \kern2.6\p@}
 
-\renewcommand*{\notesname}{Referências}
+\renewcommand*{\bibname}{Referências}
+\renewcommand*{\notesname}{Notes}
 \renewcommand*{\notedivision}{\chapter{\notesname}}
 %\renewcommand*{\notedivision}{\section*{\notesname}}
 \renewcommand*{\pagenotesubhead}[3]{}
