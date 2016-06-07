@@ -171,7 +171,7 @@
   {\@setfontsize\smaller{9}{11}}
 
 \newcommand{\copyrightsize}
-  {\@setfontsize\copyrightsize{9}{11}}
+  {\@setfontsize\copyrightsize{7}{9}}
 
 % foreign language wrappers
 
@@ -227,8 +227,7 @@
 % memoir's more allowing penalties
 \midsloppy
 
-% FIXME: only if babel is english or british
-\renewcommand\britishhyphenmins{{3}{3}}
+\renewcommand\portuguesehyphenmins{{3}{3}}
 
 % there are others
 %\renewcommand\portuguesehyphenmins{{3}{3}}
@@ -468,6 +467,12 @@ philo-sophical munindo amaravati thai-land}
 \item[]}%
 {\endlist}
 
+\renewenvironment{quotation}%
+{\small
+\list{}{\leftmargin 1em}%
+\item[]}%
+{\endlist}
+
 \newcommand\quoteref[1]{%
 \par
 {\footnotesize #1}
@@ -488,6 +493,13 @@ philo-sophical munindo amaravati thai-land}
 \renewcommand*{\notenumintext}[1]{\textsuperscript{\thinspace [#1]}}
 \renewcommand{\prenoteinnotes}{\par\noindent\hangindent=17pt}
 \renewcommand{\postnoteinnotes}{\par\vspace*{0.5\baselineskip}}
+
+% If using babel, captions names have to be renamed like this
+
+\addto\captionsportuguese{
+  \renewcommand{\contentsname}{Índice}
+  \renewcommand{\bibname}{Referências}
+}
 
 % === Page styles ===
 
