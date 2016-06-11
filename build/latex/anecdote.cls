@@ -224,13 +224,16 @@
 
 % === penalties and hyphenation ===
 
-% memoir's more allowing penalties
+% Start with memoir's more allowing penalties
 \midsloppy
 
 \renewcommand\portuguesehyphenmins{{3}{3}}
 
-% there are others
-%\renewcommand\portuguesehyphenmins{{3}{3}}
+% Portuguese repeats hyphen
+% http://tex.stackexchange.com/a/247298/831
+
+% generates a hyphen that will repeat on a new line
+\defineshorthand{"-}{\babelhyphen{repeat}}
 
 % The lastparline or the parfillskip solution is overkill in many
 % places. It is optimal for larger paragraphs, but creates too much
@@ -259,15 +262,18 @@
 % Last line at least 20% of textwidth
 %\parfillskip 0pt plus 0.8\textwidth
 
-\hyphenpenalty=700
-\exhyphenpenalty=50
-\doublehyphendemerits=900
-%\finalhyphendemerits=5000 % default is 5000
+\RequirePackage[defaultlines=2,all]{nowidow}
+
+% Penalties
+
+% Use a bit less hyphenation to avoid many successive hyphens, at the expense of
+% a bit more streching.
+\hyphenpenalty=700% default = 50
 
 % It is more effective to \mbox{...} the words to avoid hyphenation.
-\brokenpenalty=5000 % penalty for page break after a hyphenated line
+% penalty for page break after a hyphenated line
+\brokenpenalty=5000% default = 100
 
-\RequirePackage[defaultlines=2,all]{nowidow}
 
 % === common hyphenation exceptions and corrections ===
 
