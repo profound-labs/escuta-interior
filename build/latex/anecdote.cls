@@ -112,6 +112,7 @@
   BoldItalicFont = Gentium Book Basic Bold Italic,
 ]{Gentium Plus}
 
+\newfontfamily\crimsonFont{Crimson Roman}
 \newfontfamily\gentiumFont{Gentium}
 
 \newfontfamily\firaSansLightFont[
@@ -188,6 +189,7 @@
 \RequirePackage[final,babel=true]{microtype}
 
 % TODO does this work, even when \chapterTitleFont is a \newcommand, not \newfamily ?
+\SetTracking[spacing={450,100,}]{encoding=*, family=Crimson Roman}{80}
 \SetTracking[spacing={350,100,}]{encoding=*, family=Fira Sans Light}{40}
 
 % === hyperref ===
@@ -563,12 +565,12 @@ philo-sophical munindo amaravati thai-land}
 \makepagestyle{bottomcenter}
 \makeevenhead{bottomcenter}{}{}{}
 \makeevenfoot{bottomcenter}{}{%
-  \footerFont\footerSize%
+  \headerFont\pageNumSize\color[gray]{0.4}%
   \thepage%
 }{}
 \makeoddhead{bottomcenter}{}{}{}
 \makeoddfoot{bottomcenter}{}{%
-  \footerFont\footerSize%
+  \headerFont\pageNumSize\color[gray]{0.4}%
   \thepage%
 }{}
 

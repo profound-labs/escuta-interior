@@ -10,9 +10,9 @@ Ebook status: **N/A**
 
 First edition
 
-ISBN for paperback: `000-000-0000-00-0`
+ISBN for paperback: `978-989-8691-39-2`
 
-ISBN for ebooks: `000-000-0000-00-0`
+ISBN for ebooks: `978-989-8691-40-8`
 
 See the final files in the `publish/final/` folder.
 
