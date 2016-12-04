@@ -1,3 +1,3 @@
 source 'https://rubygems.org'
 
-gem 'prophecy', '~> 0.2.6'
+gem 'prophecy', '~> 0.2.7'

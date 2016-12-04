@@ -5,18 +5,21 @@ Escuta Interior
 
 por Ajahn Amaro
 
-Paperback status: **IN PROGRESS**  
-Ebook status: **N/A**
+Source: <https://github.com/profound-labs/escuta-interior>
 
-First edition
+## Editions
 
-ISBN for paperback: `978-989-8691-39-2`
+**First edition, 2016**
 
-ISBN for ebooks: `978-989-8691-40-8`
+paperback: `978-989-8691-39-2`
 
-See the final files in the `publish/final/` folder.
+electronic: `978-989-8691-40-8`
 
-Github: <https://github.com/profound-labs/escuta-interior>
+## Software
 
-Produced with [LaTeX](http://latex-project.org/) and [Prophecy](https://github.com/profound-labs/prophecy).
+Mainmatter: LaTeX
+
+Cover: InDesign
+
+Ebooks: [Prophecy](https://github.com/profound-labs/prophecy)
 

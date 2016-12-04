@@ -1,24 +1,10 @@
 toc:
   - { insert: '\frontmatter' }
   - titlepage.tex
-  - copyright.tex.erb
+  - copyright.tex
   - { insert: "\\cleartorecto\n\\tableofcontents" }
   - { insert: "\\mainmatter\n\\book{\\thetitle}" }
   - escuta-interior.tex
-  - som-interior.tex
-  - duas-dimensoes.tex
-  - tranquilidade.tex
-  - realizacao.tex
-  - permite-escutar.tex
-  - vazio-e-verdade.tex
-  - atammayata.tex
-  - abrange.tex
-  - desenvolvimento.tex
-  - ajuda-a-ver.tex
-  - questionar.tex
-  - atributos.tex
-  - transcendencia.tex
-  - manifestacoes.tex
   - perguntas.tex
   - { insert: '\appendix' }
   - citacoes.tex

@@ -1,0 +1,91 @@
+Citações
+========
+
+O Shūrangama Sūtra
+------------------
+
+*Excerto do Sūrangama Sūtra recentemente traduzido do Chinês pelo
+Comité de Traduções do Sūrangama Sūtra da Sociedade de Traduções de
+Textos Budistas.*
+
+“Comecei por uma prática baseada nessa luminosa natureza que é a
+audição. Primeiro dirigi o meu ouvido internamente de forma a entrar na
+corrente dos sábios. A seguir os sons exteriores desapareceram. Uma vez
+a direcção da minha escuta invertida e os sons silenciados, quer os
+sons, quer o silêncio, deixaram de existir. Gradualmente, conforme
+progredia, era isso que ouvia, e a consciência do que ouvia chegou ao
+fim. E até mesmo quando esse estado de espírito, em que tudo tinha
+acabado, desaparecia, eu não descansava. A minha consciência e os
+objectos da minha consciência estavam vazios, e quando esse processo de
+esvaziamento da minha consciência estava completo, então até esse
+esvaziar e tudo quanto tinha sido esvaziado, desapareciam. O vir à
+existência, e o cessar de existir como sendo eles próprios, cessava. E
+aí, a quietude última, revelava-se.
+
+“De repente ao transcender os mundos dos seres comuns, também transcendi
+o mundo dos seres que transcenderam os mundos vulgares. Tudo, nas dez
+direcções, se iluminou completamente, e eu alcancei dois poderes
+notáveis. Primeiro, a minha mente ascendeu para se unir à fundamental, à
+maravilhosa e iluminada mente de todos os Budas nas dez direcções, e o
+meu poder de compaixão tornou-se igual ao deles. Depois, a minha mente
+desceu para se unir a todos os seres dos seis destinos em todas as dez
+direcções, de tal forma, que senti seus sofrimentos e pedidos em orações
+como sendo meus.
+
+> “Agora, respeitosamente afirmo ao Honrado pelo Mundo\\
+> Aquele que se tornou Buda neste mundo *Sahā*\\
+> Para nos transmitir a verdade, ensinamento essencial,\\
+> Neste lugar – afirmo que a pureza se revela pela audição.\\
+> Todos aqueles que desejam alcançar a maestria do *samādhi*\\
+> Certamente concordarão que a audição é o meio de entrada.”
+>
+> *(p. 253)*
+
+> “Grande Assembleia! Ānanda! Cesse o espectáculo de marionetes\\
+> Que é vossa escuta distorcida! Dirijam a vossa audição apenas\\
+> Para ouvir a vossa verdadeira e genuína natureza,\\
+> Que é o destino da Via Suprema,\\
+> Este é o caminho genuíno que vencerá obstáculos até à iluminação.”
+>
+> *(p. 256)*
+
+A Upanishad Chandogya
+---------------------
+
+“A luz que brilha acima deste céu, por detrás de todos, por detrás de
+tudo, nos mais altos mundos onde não há outros mais altos – na verdade
+essa é a mesma luz que existe aqui no interior de cada pessoa. Existe
+nesta escuta – quando fechamos os olhos e se ouve um som, um bramido,
+semelhante a um crepitar do fogo.”
+
+*(Up Ch 3.13.78)*
+
+Citação em *Mind Like Fire Unbound* / *A Mente como Fogo Sem Limite* Ch.1,
+tradução de Ven. Thanissaro Bhikku.
+
+Os Itinerantes do Dharma
+------------------------
+
+O silêncio é tão intenso que se pode ouvir o ribombar do nosso sangue
+nos ouvidos, mas bastante mais alto que isso é o misterioso bramir que
+sempre identifiquei como o troar do diamante da sabedoria, o misterioso
+troar do próprio silêncio, que é um imenso *’shhh’* recordando-nos de
+algo que parece termos esquecido na agitação diária desde que nascemos.
+
+Como eu gostaria de o explicar àqueles que amo, à minha mãe, a Japhy,
+mas nunca encontrei palavras para descrever esse nada, essa pureza.
+«Haverá algum ensinamento definido para ser dado a todos os seres
+vivos?» foi a pergunta que eventualmente foi colocada ao Dipankara com
+sobrancelhas castanhas já embranquecidas, e a sua resposta foi: o
+troante silêncio do diamante.
+
+*The Dharma Bums* Cap.22, por Jack Kerouac
+
+A Subida ao Monte Carmelo
+-------------------------
+
+Nada, nada, nada, nada, nada
+
+E até na montanha, nada.
+
+*A Subida ao Monte Carmelo – A Via do Espírito Puro*, S. João da Cruz
