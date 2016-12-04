@@ -9,7 +9,7 @@ Source: <https://github.com/profound-labs/escuta-interior>
 
 ## Print Specs
 
-Page size:
+Page size: 120mm x 135mm
 
 Binding: perfect
 
