@@ -27,6 +27,7 @@ toc:
   - { the_matter: mainmatter, section_number: 1 }
   - escuta-interior.md
   - perguntas.md
+  - conclusao.md
   - { section_name: "Appendix", section_number: 1 }
   - citacoes.md
   - { the_matter: backmatter }

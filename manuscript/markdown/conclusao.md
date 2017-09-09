@@ -1,4 +1,5 @@
-EM CONCLUSÃO
+Em Conclusão
+=====
 
 Na prática budista está-se sempre a reflectir, “Será que resulta? Quais
 são os resultados dos meus esforços?” e, se os resultados forem
