@@ -1170,6 +1170,10 @@ philo-sophical munindo amaravati thai-land}
   \renewcommand\afterchaptertitle{\par\nobreak\vskip \afterchapskip}%
 }
 
+\makechapterstyle{oneline-toc}{
+  \chapterstyle{oneline}
+  \setlength{\beforechapskip}{-2.2\baselineskip}
+}
 
 % Commands to assign the chapter styles to book parts. Use \renewcommand
 % to adjust.
